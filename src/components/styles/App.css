@@ -8,9 +8,10 @@
   justify-content: space-evenly;
 }
 
-.borderN:hover {
+.borderN,.search-icon:hover {
   border: 1px solid wheat;
   border-radius: 2px;
+  cursor: pointer;
 }
 
 .nav-logo {
@@ -230,3 +231,9 @@ ul a {
 .footer-panel3 p {
   margin-top: 3px;
 }
+
+.backto{
+  color: white ;
+  text-decoration: none;
+}
+

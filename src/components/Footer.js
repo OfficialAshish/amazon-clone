@@ -5,7 +5,7 @@ export default function Footer() {
         <footer>
 
             <div class="footer-panel1">
-                <p>Back to Top</p>
+                <a className="backto" href="#">Back to Top</a>
             </div>
             <div class="footer-panel2">
                 <ul>
@@ -55,6 +55,9 @@ export default function Footer() {
                 </div>
                 <p>
                     © 1996-2023, Amazon.com, Inc. or its affiliates
+                </p>
+                <p>
+                    Cloned by - Ashish
                 </p>
             </div>
         </footer>
