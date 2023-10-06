@@ -8,7 +8,7 @@
   justify-content: space-evenly;
 }
 
-.borderN,.search-icon:hover {
+.borderN:hover,.search-icon:hover {
   border: 1px solid wheat;
   border-radius: 2px;
   cursor: pointer;
