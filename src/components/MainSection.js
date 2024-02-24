@@ -38,8 +38,8 @@ export default function Main() {
 
                 <div className="home-msg">
                     <p>
-                        You are on amazon.com. You can also shop on Amazon India for millions of products with fast local
-                        delivery. <a href="#">Click here to go to amazon.in</a>
+                        You are on amzn.com. You can also shop on amzn India for millions of products with fast local
+                        delivery. <a href="#">Click here to go to amzn.in</a>
                     </p>
                 </div>
             </div>

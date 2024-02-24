@@ -1,5 +1,5 @@
 import React from "react";
-import logoNav from '../media_db/images/amazon_logo.png';
+import logoNav from '../media_db/images/amn_logo.png';
 export default function Navbar() {
     return (
         <header>
@@ -22,7 +22,7 @@ export default function Navbar() {
                         <option>All</option>
                     </select>
                     <div className="search-box">
-                        <input className="search-input" placeholder="Search Amazon"></input>
+                        <input className="search-input" placeholder="Search amzn"></input>
                     </div>
                     <div className="search-icon">
                         <i className="fa-solid fa-magnifying-glass"></i>

@@ -8,7 +8,8 @@
   justify-content: space-evenly;
 }
 
-.borderN:hover,.search-icon:hover {
+.borderN:hover,
+.search-icon:hover {
   border: 1px solid wheat;
   border-radius: 2px;
   cursor: pointer;
@@ -17,7 +18,7 @@
 .nav-logo {
   width: 100px;
   height: 60px;
-  /* background-image: url("../images/amazon_logo.png"); */
+  /* background-image: url("../images/amn_logo.png"); */
   background-size: cover;
 }
 
@@ -232,8 +233,7 @@ ul a {
   margin-top: 3px;
 }
 
-.backto{
-  color: white ;
+.backto {
+  color: white;
   text-decoration: none;
 }
-

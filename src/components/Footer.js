@@ -12,38 +12,38 @@ export default function Footer() {
                     <p>Get to Know Us</p>
                     <a href="#">Careers</a>
                     <a href="#">Blog</a>
-                    <a href="#">About Amazon</a>
+                    <a href="#">About amzn</a>
                     <a href="#">Investor Relations</a>
-                    <a href="#">Amazon Devices</a>
-                    <a href="#">Amazon Science</a>
+                    <a href="#">amzn Devices</a>
+                    <a href="#">amzn Science</a>
                 </ul>
                 <ul>
                     <p>Make Money with Us</p>
-                    <a href="#">Sell on Amazon Business</a>
-                    <a href="#">Sell apps on Amazon</a>
+                    <a href="#">Sell on amzn Business</a>
+                    <a href="#">Sell apps on amzn</a>
                     <a href="#">Become an Affiliate</a>
                     <a href="#">Advertise Your Products</a>
                     <a href="#">Self-Publish with Us</a>
                     <a href="#">›See More Make Money with Us</a>
                 </ul>
                 <ul>
-                    <p>Amazon Payment Products</p>
-                    <a href="#">Amazon Business Card </a>
+                    <p>amzn Payment Products</p>
+                    <a href="#">amzn Business Card </a>
                     <a href="#">Blog</a>
                     <a href="#">Shop with Points</a>
                     <a href="#">Reload Your Balance </a>
-                    <a href="#">Amazon Currency Converter </a>
+                    <a href="#">amzn Currency Converter </a>
 
                 </ul>
                 <ul>
                     <p>Let Us Help You</p>
-                    <a href="#">Amazon and COVID-19 </a>
+                    <a href="#">amzn and COVID-19 </a>
                     <a href="#">Your Account</a>
                     <a href="#"> Your Orders </a>
                     <a href="#">Shipping Rates & Policies </a>
                     <a href="#">Returns & Replacements</a>
                     <a href="#">Manage Your Content and Devices</a>
-                    <a href="#">Amazon Assistant</a>
+                    <a href="#">amzn Assistant</a>
                     <a href="#">Help</a>
                 </ul>
             </div>
@@ -54,7 +54,7 @@ export default function Footer() {
                     <a href="#">Your Ads Privacy Choices</a>
                 </div>
                 <p>
-                    © 1996-2023, Amazon.com, Inc. or its affiliates
+                    © 1996-2023, amzn.com, Inc. or its affiliates
                 </p>
                 <p>
                     Cloned by - Ashish
